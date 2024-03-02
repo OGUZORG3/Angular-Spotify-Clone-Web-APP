@@ -10,30 +10,23 @@ export class MusicDataService {
   public allSoundList:Array<any> = [{
     id:1,
     picture:this.ThumbNail,
-    title:"Where Did U Come From",
-    soundPath:"../../../assets/musiz/Where Did U Come From - Jennings Couch (LYRICS).m4a",
-    muzikSanatci:"Jennings Couch"
+    title:"calm-chill-beautiful",
+    soundPath:"../../../assets/musiz/calm-chill-beautiful-141317.mp3",
+    muzikSanatci:"Artist"
   },
   {
     id:2,
     picture:this.ThumbNail,
-    title:"Witness",
-    soundPath:"../../../assets/musiz/Witness - Jake Is Lloyd (LYRICS).m4a",
-    muzikSanatci:"Lloyd"
+    title:"happy-day-background-vlog-music",
+    soundPath:"../../../assets/musiz/happy-day-background-vlog-music-148320.mp3",
+    muzikSanatci:"Artist"
   },
   {
     id:3,
     picture:this.ThumbNail,
-    title:"Till Tomorrow",
-    soundPath:"../../../assets/musiz/Till Tomorrow - Stellar (Official Lyric Video).m4a",
-    muzikSanatci:"Stellar"
-  },
-  {
-    id:4,
-    picture:this.ThumbNail,
-    title:"Wolves",
-    soundPath:"../../../assets/musiz/Wolves - Jake Daniels (LYRICS).m4a",
-    muzikSanatci:"Jake Daniels"
+    title:"tvari-tokyo-cafe",
+    soundPath:"../../../assets/musiz/tvari-tokyo-cafe-159065.mp3",
+    muzikSanatci:"Artist"
   },
 ]
   public sendMusicList:Subject<any> = new Subject();
@@ -44,64 +37,64 @@ export class MusicDataService {
         {
         id:1,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Where Did U Come From - Jennings Couch (LYRICS).m4a",
+        title:"tvari-tokyo-cafe",
+        soundPath:"../../../assets/musiz/tvari-tokyo-cafe-159065.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:2,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Witness - Jake Is Lloyd (LYRICS).m4a",
+        title:"calm-chill-beautiful",
+        soundPath:"../../../assets/musiz/calm-chill-beautiful-141317.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:3,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Till Tomorrow - Stellar (Official Lyric Video).m4a",
+        title:"happy-day-background-vlog-music",
+        soundPath:"../../../assets/musiz/happy-day-background-vlog-music-148320.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:4,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Wolves - Jake Daniels (LYRICS).m4a",
+        title:"tvari-tokyo-cafe",
+        soundPath:"../../../assets/musiz/tvari-tokyo-cafe-159065.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:5,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Where Did U Come From - Jennings Couch (LYRICS).m4a",
+        title:"calm-chill-beautiful",
+        soundPath:"../../../assets/musiz/calm-chill-beautiful-141317.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:6,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Wolves - Jake Daniels (LYRICS).m4a",
+        title:"calm-chill-beautiful",
+        soundPath:"../../../assets/musiz/calm-chill-beautiful-141317.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:7,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Where Did U Come From - Jennings Couch (LYRICS).m4a",
+        title:"tvari-tokyo-cafe",
+        soundPath:"../../../assets/musiz/tvari-tokyo-cafe-159065.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:8,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Witness - Jake Is Lloyd (LYRICS).m4a",
+        title:"happy-day-background-vlog-music",
+        soundPath:"../../../assets/musiz/happy-day-background-vlog-music-148320.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
       {
         id:9,
         picture:this.ThumbNail,
-        title:"sound2",
-        soundPath:"../../../assets/musiz/Where Did U Come From - Jennings Couch (LYRICS).m4a",
+        title:"tvari-tokyo-cafe",
+        soundPath:"../../../assets/musiz/tvari-tokyo-cafe-159065.mp3",
         muzikSanatci:"Sanatci İsmi"
       },
     ],
