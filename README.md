@@ -1,6 +1,59 @@
 # SpotifyClone
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
+---
+
+# Angular Spotify Clone Web Application
+
+This project contains a Spotify clone web application developed using Angular. The application is created using Angular services, components, and the RxJs library.
+
+## Project URL
+
+[Project GitHub Repository](https://github.com/OGUZORG3/Angular-Spotify-Clone-Web-APP)
+
+## Features
+
+- Angular components and services
+- Usage of the RxJs library
+
+## Installation
+
+1. Clone this repository locally:
+
+```bash
+git clone https://github.com/OGUZORG3/Angular-Spotify-Clone-Web-APP.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Angular-Spotify-Clone-Web-APP
+```
+
+3. Install the necessary dependencies:
+
+```bash
+npm install
+```
+
+4. Run the project:
+
+```bash
+ng serve
+```
+
+You can view the application by visiting `http://localhost:4200/` in your browser.
+
+## Contributing
+
+- Fork the repository (https://github.com/OGUZORG3/Angular-Spotify-Clone-Web-APP/fork)
+- Create a feature branch (`git checkout -b feature/new-feature`)
+- Make your changes
+- Commit your changes (`git commit -am 'Added a new feature'`)
+- Push to your branch (`git push origin feature/new-feature`)
+- Open a Pull Request
+
+---
 
 ## Development server
 
